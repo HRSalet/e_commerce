@@ -10,7 +10,7 @@ class WishlistPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Wishlist'),
+        title: Text('Wishlist page'),
         backgroundColor: kPrimaryColor,
       ),
       body: GridView.builder(
